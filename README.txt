@@ -1,5 +1,3 @@
-https://github.com/CristianBrazales/HospitalManagement
-
 To run the webpage on Chrome from Visual Studio:
 Make sure you have the lates version of Node JS and have the Moesif CORS chrome extension installed and turned on. 
 
